@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_test_design_test_cases --> navigate to Page_test-design_test-cases",
+        "step 5: At Page_test-design_test-cases click on hyperlink_test_design_test_suites --> navigate to Page_test-design_test-suites",
+        "step 6: At Page_test-design_test-suites click on hyperlink_test_design_test_objects --> navigate to Page_test-design_test-objects",
+        "step 7: At Page_test-design_test-objects click on hyperlink_web_services --> navigate to Page_web-services",
+        "step 8: At Page_web-services click on hyperlink_project --> navigate to Page_project",
+        "step 9: At Page_project click on hyperlink_test_project --> navigate to Page_test-project",
+        "step 10: At Page_test-project click on hyperlink_testcloudtunnel --> navigate to Page_testCloudTunnel",
+        "step 11: Add visual checkpoint at Page_testCloudTunnel"
+    ]
+}

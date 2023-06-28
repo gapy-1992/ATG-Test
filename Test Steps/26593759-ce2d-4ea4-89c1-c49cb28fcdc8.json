@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_releases --> navigate to Page_releases",
+        "step 5: At Page_releases click on hyperlink_menu_reports --> navigate to Page_overview",
+        "step 6: At Page_overview click on hyperlink_menu_visual_testing --> navigate to Page_katalon-eyes",
+        "step 7: At Page_katalon-eyes click on div_object",
+        "step 8: At Page_katalon-eyes click on hyperlink_page_visual_testing_view_overview_doc",
+        "step 9: At Page_katalon-eyes click on hyperlink_page_visual_testing_view_setup_doc",
+        "step 10: At Page_katalon-eyes click on hyperlink_baseline_collection --> navigate to Page_baseline-collection",
+        "step 11: Add visual checkpoint at Page_baseline-collection"
+    ]
+}

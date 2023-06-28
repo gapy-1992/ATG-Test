@@ -1,2 +1,2 @@
-# ATG-Test
-This is your first repository
+# atg-automation-scripts
+Autonomous Test Generation

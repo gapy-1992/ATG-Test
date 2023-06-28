@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_downloads",
+        "step 3: Add visual checkpoint at Page_downloads"
+    ]
+}

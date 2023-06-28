@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_test_project --> navigate to Page_test-project",
+        "step 5: At Page_test-project click on hyperlink_connect_git_script_repository --> navigate to Page_git-test-project_setup",
+        "step 6: At Page_git-test-project_setup click on div_object",
+        "step 7: At Page_git-test-project_setup click on input_repository",
+        "step 8: At Page_git-test-project_setup click on input_username",
+        "step 9: At Page_git-test-project_setup click on input_password",
+        "step 10: At Page_git-test-project_setup click on div_object",
+        "step 11: At Page_git-test-project_setup click on input_repository",
+        "step 12: At Page_git-test-project_setup input on input_repository",
+        "step 13: At Page_git-test-project_setup input on input_username",
+        "step 14: At Page_git-test-project_setup click on input_password",
+        "step 15: At Page_git-test-project_setup click on hyperlink_docs_katalon_com_docs_organize_upload_t",
+        "step 16: At Page_git-test-project_setup input on input_password",
+        "step 17: At Page_git-test-project_setup click on div_object",
+        "step 18: At Page_git-test-project_setup click on button_connect_default_git_repository",
+        "step 19: Add visual checkpoint at Page_git-test-project_setup"
+    ]
+}

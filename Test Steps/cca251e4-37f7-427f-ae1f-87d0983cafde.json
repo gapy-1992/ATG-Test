@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_test_planning --> navigate to Page_test-planning",
+        "step 5: At Page_test-planning click on hyperlink_grid --> navigate to Page_grid",
+        "step 6: At Page_grid click on hyperlink_project --> navigate to Page_project",
+        "step 7: At Page_project click on hyperlink_releases --> navigate to Page_releases",
+        "step 8: At Page_releases click on hyperlink_requirements --> navigate to Page_requirements",
+        "step 9: At Page_requirements click on div_object",
+        "step 10: At Page_requirements click on th_object",
+        "step 11: At Page_requirements click on input_search_input",
+        "step 12: At Page_requirements click on hyperlink_test_reports_test_design_requirement_tes --> navigate to Page_test-reports_test-design_requirement-test-run-coverage",
+        "step 13: At Page_test-reports_test-design_requirement-test-run-coverage click on div_object",
+        "step 14: At Page_test-reports_test-design_requirement-test-run-coverage click on div_object",
+        "step 15: At Page_test-reports_test-design_requirement-test-run-coverage click on hyperlink_test_reports_test_maintenance_active --> navigate to Page_test-reports_test-maintenance_active",
+        "step 16: Add visual checkpoint at Page_test-reports_test-maintenance_active"
+    ]
+}

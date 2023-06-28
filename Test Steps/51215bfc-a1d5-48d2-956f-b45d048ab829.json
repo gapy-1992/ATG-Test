@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on hyperlink_releases --> navigate to Page_releases",
+        "step 5: At Page_releases click on hyperlink_create_release --> navigate to Page_releases_create",
+        "step 6: At Page_releases_create click on hyperlink_project --> navigate to Page_project",
+        "step 7: At Page_project click on hyperlink_dashboard_view_all_local_agents --> navigate to Page_agent",
+        "step 8: At Page_agent click on hyperlink_agent_test_cloud --> navigate to Page_agent_test-cloud",
+        "step 9: At Page_agent_test-cloud click on hyperlink_test_design_test_cases --> navigate to Page_test-design_test-cases",
+        "step 10: Add visual checkpoint at Page_test-design_test-cases"
+    ]
+}

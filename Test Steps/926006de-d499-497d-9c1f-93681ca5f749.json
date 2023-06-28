@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_login",
+        "step 2: Login at https://testops.staging.katalon.com/login --> navigate to Page_home",
+        "step 3: At Page_home click on hyperlink_project --> navigate to Page_project",
+        "step 4: At Page_project click on button_g5_record_test_case",
+        "step 5: At Page_project input on input_g5_name_record_test_case",
+        "step 6: At Page_project click on button_g5_submit_record_test_case --> navigate to Page_test-design_test-cases_draft-1687473020646-New-test-case_edit",
+        "step 7: Add visual checkpoint at Page_test-design_test-cases_draft-1687473020646-New-test-case_edit"
+    ]
+}
